@@ -1,0 +1,5 @@
+@media only screen and (max-width: 577px) {
+    .customer-section {
+        min-height: 100vh;
+    }
+}
